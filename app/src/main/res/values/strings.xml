@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="find_text">Find text</string>
+    <string name="take_pic">take pic</string>
+    <string name="select_image_for_text_recognition">Select image for text recognition</string>
+    <string name="choose_an_image_click_the_take_pic_button_we_ll_help_you_do_it">Choose an image, click the take pic button, we\'ll help you do it.</string>
+</resources>
